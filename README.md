@@ -2,19 +2,16 @@
 
 Hey there! Welcome to the exciting journey of mastering C++! This roadmap is here to guide beginners through fundamental concepts to advanced topics, making it fun and easy to become proficient in C++ programming.
 ##  Introduction to Programming
-1. **Programming Concepts**
-   - Understand the essence and significance of programming.
-   - Get acquainted with variables, data types, and basic operations.
 
-2. **Getting Started with C++**
-   - Set up a C++ development environment (e.g., GCC, Visual Studio).
-   - Write your inaugural "Hello, World!" program.
-   - Familiarize yourself with C++ syntax.
 
-##  Fundamentals of C++
+1. **Introduction to "Hello, World!"**
+  
+   - Get acquainted with C++ syntax.
+
+##  Basics of C++
 3. **Variables and Data Types**
-   - Explore various data types (int, float, double, char, etc.).
-   - Learn to declare, initialize, and manage variables.
+   - Discover different data types (int, float, double, char, etc.).
+   - Master declaring, initializing, and handling variables.
 
 4. **Operators and Expressions**
    - Study different operators: arithmetic, relational, logical, and assignment.
