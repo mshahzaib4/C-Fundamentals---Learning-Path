@@ -1,7 +1,7 @@
 # Roadmap for Learning C++ for Beginners
 
 Hey there! Welcome to the exciting journey of mastering C++! This roadmap is here to guide beginners through fundamental concepts to advanced topics, making it fun and easy to become proficient in C++ programming.
-## Stage 1: Introduction to Programming
+##  Introduction to Programming
 1. **Programming Concepts**
    - Understand the essence and significance of programming.
    - Get acquainted with variables, data types, and basic operations.
@@ -11,7 +11,7 @@ Hey there! Welcome to the exciting journey of mastering C++! This roadmap is her
    - Write your inaugural "Hello, World!" program.
    - Familiarize yourself with C++ syntax.
 
-## Stage 2: Fundamentals of C++
+##  Fundamentals of C++
 3. **Variables and Data Types**
    - Explore various data types (int, float, double, char, etc.).
    - Learn to declare, initialize, and manage variables.
@@ -28,7 +28,7 @@ Hey there! Welcome to the exciting journey of mastering C++! This roadmap is her
    - Learn how to define and utilize functions.
    - Understand function parameters, return types, and recursion.
 
-## Stage 3: Intermediate C++
+##  Intermediate C++
 7. **Arrays and Strings**
    - Dive into arrays: initialization, accessing elements.
    - Explore C-style strings and string manipulation functions.
@@ -47,7 +47,7 @@ Hey there! Welcome to the exciting journey of mastering C++! This roadmap is her
 11. **Constructor and Destructor**
     - Understand constructors (types) and destructors for resource management.
 
-## Stage 4: Advanced C++
+## Advanced C++
 12. **Operator Overloading**
     - Study how to overload operators for user-defined types.
 
@@ -61,7 +61,7 @@ Hey there! Welcome to the exciting journey of mastering C++! This roadmap is her
     - Handle runtime errors using try, catch, and throw blocks.
     - Understand RAII for resource management.
 
-## Stage 5: Advanced Topics and Beyond
+##  Advanced Topics and Beyond
 16. **Standard Template Library (STL)**
     - Introduction to containers, algorithms, and iterators.
 
@@ -77,7 +77,7 @@ Hey there! Welcome to the exciting journey of mastering C++! This roadmap is her
 20. **Advanced Techniques**
     - Explore move semantics, lambda expressions, and constexpr.
 
-## Stage 6: Projects and Practice
+##  Projects and Practice
 21. **Project-Based Learning**
     - Build projects to solidify your knowledge and skills.
 
