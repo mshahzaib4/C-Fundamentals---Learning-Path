@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656751940 source:c:\users\shahzaib yaqoob\desktop\code_block\formula_correct 98%\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
